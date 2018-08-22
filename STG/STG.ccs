@@ -1,0 +1,93 @@
+<Solution>
+  <PropertyGroup Name="STG" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="BGM">
+          <Audio Name="bgm1.wav" />
+        </Folder>
+        <Folder Name="GameEnd">
+          <Image Name="For Le-mondai.png" />
+          <Project Name="GameEnd.csd" Type="Scene" />
+          <Image Name="Gameend.jpg" />
+        </Folder>
+        <Folder Name="GameOver">
+          <Image Name="GameOver.png" />
+          <Project Name="Scene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Loading">
+          <Image Name="backg.png" />
+          <Project Name="Loading.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Manual">
+          <Image Name="BW-083.jpg" />
+          <Image Name="Class.png" />
+          <Image Name="Maker.png" />
+          <Project Name="Manual.csd" Type="Scene" />
+          <Image Name="manual.png" />
+          <Image Name="Teacher.png" />
+        </Folder>
+        <Folder Name="Menu">
+          <Image Name="16.png" />
+          <Image Name="backg2.png" />
+          <Image Name="biaoti.png" />
+          <Image Name="heibai.png" />
+          <Image Name="hongbai.png" />
+          <Image Name="Manual.png" />
+          <Image Name="Manual2.png" />
+          <Project Name="Menu.csd" Type="Scene" />
+          <Image Name="moon.png" />
+          <Image Name="Quit.png" />
+          <Image Name="Quit2.png" />
+          <Image Name="Start.png" />
+          <Image Name="Start2.png" />
+          <Image Name="tree.png" />
+          <Image Name="tree2.png" />
+          <Image Name="wenwen.png" />
+          <Image Name="xigua.png" />
+          <Image Name="zima.png" />
+        </Folder>
+        <Folder Name="Menu2">
+          <Image Name="jiemian.png" />
+          <Project Name="Menu2.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Menu3">
+          <Image Name="16.png" />
+          <Image Name="backg2.png" />
+          <Image Name="biaoti.png" />
+          <Image Name="heibai.png" />
+          <Image Name="hongbai.png" />
+          <Image Name="Manual.png" />
+          <Image Name="Manual2.png" />
+          <Image Name="moon.png" />
+          <Image Name="Quit.png" />
+          <Image Name="Quit2.png" />
+          <Image Name="Start.png" />
+          <Image Name="Start2.png" />
+          <Image Name="tree.png" />
+          <Image Name="tree2.png" />
+          <Image Name="wenwen.png" />
+          <Image Name="xigua.png" />
+          <Image Name="youkuli.png" />
+          <Image Name="zima.png" />
+        </Folder>
+        <Folder Name="Start">
+          <Folder Name="Level_1">
+            <Project Name="Level_1.csd" Type="Scene" />
+            <Image Name="level_1.png" />
+          </Folder>
+          <Folder Name="Level_2">
+            <Project Name="Level_2.csd" Type="Scene" />
+            <Image Name="level_2.png" />
+          </Folder>
+          <Folder Name="Level_3" />
+          <Folder Name="Level_4" />
+          <Folder Name="Level_5" />
+          <Image Name="BW-071.jpg" />
+          <Project Name="Start.csd" Type="Scene" />
+          <Image Name="start.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

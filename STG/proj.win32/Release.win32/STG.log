@@ -1,0 +1,35 @@
+﻿  Boss.cpp
+  Bullet.cpp
+  Enemy.cpp
+  GameStart.cpp
+..\Classes\Enemy.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Bullet.cpp(568): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Boss.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Bullet.cpp(576): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Bullet.cpp(578): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Boss.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Boss.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Boss.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(282): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(374): warning C4018: “<”: 有符号/无符号不匹配
+..\Classes\Enemy.cpp(495): warning C4305: “-=”: 从“double”到“float”截断
+..\Classes\Enemy.cpp(514): warning C4305: “-=”: 从“double”到“float”截断
+..\Classes\Enemy.cpp(797): warning C4018: “<”: 有符号/无符号不匹配
+  Player.cpp
+  main.cpp
+  复制了 60 个文件
+    正在创建库 F:\coco\STG\proj.win32\Release.win32\STG.lib 和对象 F:\coco\STG\proj.win32\Release.win32\STG.exp
+  正在生成代码
+f:\coco\stg\classes\enemy.cpp(556): warning C4715: “Enemy::EnemyMove”: 不是所有的控件路径都返回值
+  6 of 740 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    37 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  STG.vcxproj -> F:\coco\STG\proj.win32\Release.win32\STG.exe
+  复制了 0 个文件

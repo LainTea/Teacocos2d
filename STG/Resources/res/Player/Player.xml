@@ -1,0 +1,6 @@
+<ROOTPLAYER>
+<PLAYER player="res/Player/0.png" dian="res/Player/dian2.png" dian_ani="res/Player/2.png" x="450" y="200" speed="240" boom="2" life="2"/>
+</ROOTPLAYER>
+<ROOTBULLET>
+<BULLET path="res/Player/1.png" atk="200" speed="450"/>
+</ROOTBULLET>

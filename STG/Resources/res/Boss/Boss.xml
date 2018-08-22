@@ -1,0 +1,9 @@
+<ROOTBOSS>
+<BOSS x="450" y="750" speed="120" angle="0" scale="0.8" boss_sc="4" hp="20000"/>
+</ROOTBOSS>
+<ROOTBULLET>
+<BULLET starttime="1" speed="60" knd="0" cnt="200"/>
+<BULLET starttime="1" speed="60" knd="0" cnt="64"/>
+<BULLET starttime="1" speed="200" knd="0" cnt="104"/>
+<BULLET starttime="1" speed="300" knd="0" cnt="120"/>
+</ROOTBULLET>

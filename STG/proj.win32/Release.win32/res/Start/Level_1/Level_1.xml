@@ -1,0 +1,6 @@
+<RootEnemy>
+<ENEMY path="plane/45.png" cnt="1" x="100" y="400" dirX="1" dirY="-0.5" hp="1000" speed="60" />
+</RootEnemy>
+<ROOTBULLET>
+<BULLET path="res/plane/dian2.png" atk="1000" speed="650" />
+</ROOTBULLET>

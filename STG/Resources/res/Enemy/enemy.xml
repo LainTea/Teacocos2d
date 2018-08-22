@@ -1,0 +1,26 @@
+<ROOTENEMY>
+<ENEMY cnt="10" starttime="1" x="100" y="900" hp="1000" speed="60" bullknd="1" enIndex="0" enTime="0" moveknd="1" angle="0"/>
+<ENEMY cnt="10" starttime="20" x="15" y="800" hp="1000" speed="60" bullknd="2" enIndex="0" enTime="0" moveknd="2" angle="0"/>
+<ENEMY cnt="5" starttime="25" x="100" y="925" hp="1000" speed="60" bullknd="3" enIndex="0" enTime="0" moveknd="3" angle="0"/>
+<ENEMY cnt="5" starttime="30" x="800" y="925" hp="1000" speed="60" bullknd="3" enIndex="0" enTime="0" moveknd="4" angle="0"/>
+<ENEMY cnt="10" starttime="40" x="80" y="900" hp="1000" speed="60" bullknd="4" enIndex="0" enTime="0" moveknd="5" angle="0"/>
+<ENEMY cnt="10" starttime="50" x="800" y="900" hp="1000" speed="60" bullknd="5" enIndex="0" enTime="0" moveknd="6" angle="0"/>
+<ENEMY cnt="10" starttime="60" x="100" y="900" hp="1000" speed="60" bullknd="6" enIndex="0" enTime="0" moveknd="7" angle="1.96"/>
+<ENEMY cnt="10" starttime="70" x="800" y="900" hp="1000" speed="60" bullknd="7" enIndex="0" enTime="0" moveknd="8" angle="1.96"/>
+<ENEMY cnt="3" starttime="80" x="150" y="920" hp="1000" speed="60" bullknd="8" enIndex="0" enTime="0" moveknd="9" angle="0"/>
+</ROOTENEMY>
+<ROOTBULLET>
+<BULLET starttime="1" speed="350" knd="0" cnt="50"/>
+<BULLET starttime="2" speed="350" knd="1" cnt="50"/>
+<BULLET starttime="3" speed="250" knd="4" cnt="25"/>
+<BULLET starttime="4" speed="250" knd="6" cnt="25"/>
+<BULLET starttime="5" speed="350" knd="3" cnt="50"/>
+<BULLET starttime="6" speed="350" knd="3" cnt="50"/>
+<BULLET starttime="7" speed="350" knd="5" cnt="50"/>
+<BULLET starttime="8" speed="350" knd="5" cnt="50"/>
+<BULLET starttime="9" speed="350" knd="8" cnt="27"/>
+</ROOTBULLET>
+<ROOTGIFT>
+<GIFT knd="9" speed="250" />
+<GIFT knd="10" speed="250" />
+</ROOTGIFT>

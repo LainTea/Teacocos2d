@@ -1,0 +1,150 @@
+﻿“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\STG.exe”。已加载符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libcocos2d_2015.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libcurl.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已卸载“F:\coco\STG\proj.win32\Debug.win32\libcurl.dll”
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\sqlite3.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\websockets.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libvorbisfile.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已卸载“F:\coco\STG\proj.win32\Debug.win32\libvorbisfile.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\opengl32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libmpg123.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\glew32.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr100.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr110.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\msvcr110.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\glu32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\zlib1.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\OpenAL32.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libcurl.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libvorbisfile.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr110.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr110.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\msvcr110.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr120.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libogg.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libvorbis.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已卸载“F:\coco\STG\proj.win32\Debug.win32\libvorbis.dll”
+“STG.exe”(Win32): 已加载“F:\coco\STG\proj.win32\Debug.win32\libvorbis.dll”。模块已生成，不包含符号。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvinit.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“STG.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvinit.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvoglv32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\wtsapi32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+线程 0x295c 已退出，返回值为 0 (0x0)。
+线程 0x3b70 已退出，返回值为 0 (0x0)。
+线程 0x2778 已退出，返回值为 0 (0x0)。
+线程 0xdd4 已退出，返回值为 0 (0x0)。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvspcap.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\winsta.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\dxgi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d11.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvldumd.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\imagehlp.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\rsaenh.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcrypt.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvwgf2um.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvwgf2um.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_29a705ee108f99eb\nvwgf2um.dll”。无法查找或打开 PDB 文件。
+线程 0x2414 已退出，返回值为 0 (0x0)。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvapi.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\igd10iumd32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\igd10iumd32.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\igd10iumd32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ncrypt.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntasn1.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\igdusc32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\dcomp.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\TextInputFramework.dll”
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\WinTypes.dll”
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\WinTypes.dll”
+Ready for GLSL
+Ready for OpenGL 2.0
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\mciwave.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\wdmaud.drv”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksuser.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.drv”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.dll”。无法查找或打开 PDB 文件。
+“STG.exe”(Win32): 已加载“C:\Windows\SysWOW64\midimap.dll”。无法查找或打开 PDB 文件。
+线程 0x3ac8 已退出，返回值为 0 (0x0)。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\mciwave.dll”
+线程 0x3c10 已退出，返回值为 0 (0x0)。
+线程 0x35b4 已退出，返回值为 0 (0x0)。
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\igdusc32.dll”
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ntasn1.dll”
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ncrypt.dll”
+“STG.exe”(Win32): 已卸载“C:\Windows\SysWOW64\igd10iumd32.dll”
+线程 0x31b8 已退出，返回值为 0 (0x0)。
+线程 0x2060 已退出，返回值为 0 (0x0)。
+线程 0x3a34 已退出，返回值为 0 (0x0)。
+线程 0x3988 已退出，返回值为 0 (0x0)。
+线程 0x3a18 已退出，返回值为 0 (0x0)。
+线程 0x2884 已退出，返回值为 0 (0x0)。
+线程 0x1268 已退出，返回值为 0 (0x0)。
+线程 0x253c 已退出，返回值为 0 (0x0)。
+线程 0x1d94 已退出，返回值为 0 (0x0)。
+线程 0x1e8 已退出，返回值为 0 (0x0)。
+程序“[9596] STG.exe”已退出，返回值为 0 (0x0)。
